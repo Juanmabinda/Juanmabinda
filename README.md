@@ -5,8 +5,6 @@
 
 - 🌱 I'm currently learning more about **Javascript**
 
-- 👨‍💻 And in the previous week I worked on [NomadRide](choosing new hosting)
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KLLYOdKUinMBBbVqWYGhh0HkCseC7qOD/view?usp=sharing](https://drive.google.com/file/d/1KLLYOdKUinMBBbVqWYGhh0HkCseC7qOD/view?usp=sharing)
 
 - 💼 I’m currently looking for my first formal exp as **Developer**
