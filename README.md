@@ -7,8 +7,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KLLYOdKUinMBBbVqWYGhh0HkCseC7qOD/view?usp=sharing](https://drive.google.com/file/d/1KLLYOdKUinMBBbVqWYGhh0HkCseC7qOD/view?usp=sharing)
 
-- 💼 I’m currently looking for my first formal exp as **Developer**
-
 - 📫 How to reach me **juanmanuelbinda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
