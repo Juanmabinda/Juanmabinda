@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning more about **Javascript**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KLLYOdKUinMBBbVqWYGhh0HkCseC7qOD/view?usp=sharing](https://drive.google.com/file/d/1KLLYOdKUinMBBbVqWYGhh0HkCseC7qOD/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VV6Rm4LJi8sgsvfbNGTGHT8lHd11shx2/view?usp=sharing)
 
 - 📫 How to reach me **juanmanuelbinda@gmail.com**
 
