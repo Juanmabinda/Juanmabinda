@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning more about **Javascript**
 
-- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1VV6Rm4LJi8sgsvfbNGTGHT8lHd11shx2/view?usp=sharing)
+- 📄 Know about my experiences: [resume](https://juanmabinda.github.io/cv/)
 
 - 📫 How to reach me **juanmanuelbinda@gmail.com**
 
