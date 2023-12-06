@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Juanma! 👋 </h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 👨‍💻 In my last 2 weeks at Le Wagon I worked on [PathFinder](https://pathfinder.lat/)
+- 👨‍💻 In my last 2 weeks at Le Wagon I worked on [PathFinder](https://pathfinder.lat/) and other projects.
 
-- 🌱 I'm currently learning more about **Javascript**
+- 🌱 I'm currently learning more about **JavaScript** and **TypeScript**
 
 - 📄 Know about my experiences: [resume](https://juanmabinda.github.io/cv/)
 
